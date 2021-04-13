@@ -15,3 +15,4 @@
 
 ## CI
 travis 설정추가
+* trigger build
